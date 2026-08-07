@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Prathyush172/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Prathyush172/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Prathyush172/LeetCode/tree/master/0169-majority-element) |
 ## Math
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Prathyush172/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Prathyush172/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
