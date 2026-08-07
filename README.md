@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Prathyush172/LeetCode/tree/master/0100-same-tree) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Prathyush172/LeetCode/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Prathyush172/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
