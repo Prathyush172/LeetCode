@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prathyush172/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathyush172/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prathyush172/LeetCode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Prathyush172/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Prathyush172/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prathyush172/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prathyush172/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Prathyush172/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Prathyush172/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Prathyush172/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Prathyush172/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prathyush172/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Prathyush172/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Prathyush172/LeetCode/tree/master/0202-happy-number) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Prathyush172/LeetCode/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Prathyush172/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
