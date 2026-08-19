@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Prathyush172/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prathyush172/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Prathyush172/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Prathyush172/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Prathyush172/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Prathyush172/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prathyush172/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathyush172/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Prathyush172/LeetCode/tree/master/0048-rotate-image) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Prathyush172/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
