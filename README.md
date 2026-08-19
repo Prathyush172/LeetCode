@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prathyush172/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Prathyush172/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Prathyush172/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Prathyush172/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Prathyush172/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
