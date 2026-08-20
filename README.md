@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prathyush172/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Prathyush172/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Prathyush172/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Prathyush172/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Prathyush172/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Prathyush172/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Prathyush172/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Prathyush172/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## DP on Trees
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prathyush172/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Prathyush172/LeetCode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Prathyush172/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Prathyush172/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathyush172/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Prathyush172/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Prathyush172/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
