@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Prathyush172/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Prathyush172/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Prathyush172/LeetCode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Prathyush172/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Prathyush172/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Prathyush172/LeetCode/tree/master/0412-fizz-buzz) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prathyush172/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Prathyush172/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Prathyush172/LeetCode/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/Prathyush172/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Prathyush172/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1046-last-stone-weight](https://github.com/Prathyush172/LeetCode/tree/master/1046-last-stone-weight) |
 ## String
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prathyush172/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathyush172/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/Prathyush172/LeetCode/tree/master/0264-ugly-number-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
