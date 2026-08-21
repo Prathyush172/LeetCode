@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prathyush172/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prathyush172/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Prathyush172/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Prathyush172/LeetCode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Prathyush172/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Prathyush172/LeetCode/tree/master/0739-daily-temperatures) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Prathyush172/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Prathyush172/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Prathyush172/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Prathyush172/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Prathyush172/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Prathyush172/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Prathyush172/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Prathyush172/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prathyush172/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Prathyush172/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Prathyush172/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathyush172/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prathyush172/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Prathyush172/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Prathyush172/LeetCode/tree/master/0704-binary-search) |
 ## Stack
 |  |
@@ -221,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prathyush172/LeetCode/tree/master/0148-sort-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prathyush172/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
