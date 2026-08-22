@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prathyush172/LeetCode/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Prathyush172/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prathyush172/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prathyush172/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prathyush172/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Prathyush172/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Prathyush172/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Prathyush172/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prathyush172/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Prathyush172/LeetCode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Prathyush172/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Prathyush172/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
