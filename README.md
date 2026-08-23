@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prathyush172/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prathyush172/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Prathyush172/LeetCode/tree/master/0414-third-maximum-number) |
+| [0682-baseball-game](https://github.com/Prathyush172/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Prathyush172/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Prathyush172/LeetCode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prathyush172/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathyush172/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Prathyush172/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Prathyush172/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Prathyush172/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Prathyush172/LeetCode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Prathyush172/LeetCode/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathyush172/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Merge Sort
 |  |
