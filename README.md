@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Prathyush172/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Prathyush172/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Prathyush172/LeetCode/tree/master/0412-fizz-buzz) |
+| [3536-maximum-product-of-two-digits](https://github.com/Prathyush172/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prathyush172/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Prathyush172/LeetCode/tree/master/1051-height-checker) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Prathyush172/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Prathyush172/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Prathyush172/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
