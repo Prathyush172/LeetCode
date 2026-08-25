@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Prathyush172/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Prathyush172/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathyush172/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Prathyush172/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathyush172/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/Prathyush172/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Prathyush172/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
