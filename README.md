@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Prathyush172/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Prathyush172/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Prathyush172/LeetCode/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Prathyush172/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prathyush172/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Prathyush172/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Prathyush172/LeetCode/tree/master/1051-height-checker) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Prathyush172/LeetCode/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/Prathyush172/LeetCode/tree/master/0867-transpose-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Prathyush172/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Prathyush172/LeetCode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Prathyush172/LeetCode/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathyush172/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Merge Sort
 |  |
