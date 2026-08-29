@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prathyush172/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Prathyush172/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prathyush172/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Prathyush172/LeetCode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Prathyush172/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Prathyush172/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Prathyush172/LeetCode/tree/master/0263-ugly-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Prathyush172/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Prathyush172/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prathyush172/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Prathyush172/LeetCode/tree/master/0231-power-of-two) |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Prathyush172/LeetCode/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Prathyush172/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
