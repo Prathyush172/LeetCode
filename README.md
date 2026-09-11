@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Prathyush172/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Prathyush172/LeetCode/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Prathyush172/LeetCode/tree/master/0917-reverse-only-letters) |
+| [3110-score-of-a-string](https://github.com/Prathyush172/LeetCode/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
