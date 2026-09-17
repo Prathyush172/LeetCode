@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Prathyush172/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Prathyush172/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Prathyush172/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/Prathyush172/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Prathyush172/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Prathyush172/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prathyush172/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Prathyush172/LeetCode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Prathyush172/LeetCode/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Prathyush172/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Memoization
 |  |
 | ------- |
