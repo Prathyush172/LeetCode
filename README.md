@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Prathyush172/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Prathyush172/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Prathyush172/LeetCode/tree/master/0867-transpose-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/Prathyush172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prathyush172/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Prathyush172/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Prathyush172/LeetCode/tree/master/1051-height-checker) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Prathyush172/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Prathyush172/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Prathyush172/LeetCode/tree/master/0412-fizz-buzz) |
+| [0973-k-closest-points-to-origin](https://github.com/Prathyush172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Prathyush172/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Prathyush172/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/Prathyush172/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Prathyush172/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prathyush172/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Prathyush172/LeetCode/tree/master/0190-reverse-bits) |
+| [0973-k-closest-points-to-origin](https://github.com/Prathyush172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Prathyush172/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Prathyush172/LeetCode/tree/master/0414-third-maximum-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Prathyush172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prathyush172/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Prathyush172/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prathyush172/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Prathyush172/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Prathyush172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Prathyush172/LeetCode/tree/master/1046-last-stone-weight) |
 ## String
 |  |
@@ -348,4 +353,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Prathyush172/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Prathyush172/LeetCode/tree/master/3903-smallest-stable-index-i) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Prathyush172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Prathyush172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Prathyush172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
