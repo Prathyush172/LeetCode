@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Prathyush172/LeetCode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Prathyush172/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Prathyush172/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Prathyush172/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Prathyush172/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Prathyush172/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Prathyush172/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Prathyush172/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Prathyush172/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Prathyush172/LeetCode/tree/master/0867-transpose-matrix) |
@@ -398,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Prathyush172/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Prathyush172/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
