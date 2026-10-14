@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prathyush172/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prathyush172/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prathyush172/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0376-wiggle-subsequence](https://github.com/Prathyush172/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0414-third-maximum-number](https://github.com/Prathyush172/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathyush172/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/Prathyush172/LeetCode/tree/master/0682-baseball-game) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathyush172/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Prathyush172/LeetCode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Prathyush172/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0376-wiggle-subsequence](https://github.com/Prathyush172/LeetCode/tree/master/0376-wiggle-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/Prathyush172/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prathyush172/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bracket Sequences
 |  |
