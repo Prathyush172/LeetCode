@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Prathyush172/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prathyush172/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Prathyush172/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prathyush172/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prathyush172/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Prathyush172/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Prathyush172/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prathyush172/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prathyush172/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Prathyush172/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prathyush172/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Prathyush172/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Prathyush172/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prathyush172/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Prathyush172/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Prathyush172/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Prathyush172/LeetCode/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prathyush172/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
 | ------- |
