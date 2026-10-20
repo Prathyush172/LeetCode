@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Prathyush172/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Prathyush172/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prathyush172/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Prathyush172/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Prathyush172/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Prathyush172/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prathyush172/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Prathyush172/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Prathyush172/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Prathyush172/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prathyush172/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Prathyush172/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Array
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathyush172/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Prathyush172/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -480,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Prathyush172/LeetCode/tree/master/0877-stone-game) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Prathyush172/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
