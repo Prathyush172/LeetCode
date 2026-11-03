@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Prathyush172/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Prathyush172/LeetCode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prathyush172/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0754-reach-a-number](https://github.com/Prathyush172/LeetCode/tree/master/0754-reach-a-number) |
 | [0877-stone-game](https://github.com/Prathyush172/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Prathyush172/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Prathyush172/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Prathyush172/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathyush172/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Prathyush172/LeetCode/tree/master/0704-binary-search) |
+| [0754-reach-a-number](https://github.com/Prathyush172/LeetCode/tree/master/0754-reach-a-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prathyush172/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prathyush172/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prathyush172/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
